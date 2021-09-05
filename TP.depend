@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1630854684 source:c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\main.cpp
+	<iostream>
+	<vector>
+	"organisateurs.h"
+	"invite.h"
+	"party.h"
+	<string>
+	<stdlib.h>
+
+1630851710 source:c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\organisateurs.cpp
+	<iostream>
+	<string>
+	"party.h"
+	"organisateurs.h"
+
+1630682953 c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\organisateurs.cpp
+	<iostream>
+	<string>
+	"party.h"
+
+1630853631 source:c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\party.cpp
+	<iostream>
+	"party.h"
+	"invite.h"
+	<vector>
+	<math.h>
+	<array>
+	<bits/stdc++.h>
+
+1630515438 source:c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\administrateur.cpp
+	<iostream>
+	<string>
+
+1630854027 source:c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\invite.cpp
+	<iostream>
+	<string>
+	"invite.h"
+
+1630612223 c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\invite.cpp
+	<iostream>
+	<string>
+	"invite.h"
+
+1630433313 c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\party.cpp
+	<iostream>
+	<string>
+
+1630842321 c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\party.h
+	"invite.h"
+	<string>
+
+1630827629 c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\invite.h
+	<string>
+
+1630781029 c:\users\hp\documents\a- ulpgl\c et c++\codes\tp\organisateurs.h
+	"party.h"
+	<vector>
+	<string>
+
